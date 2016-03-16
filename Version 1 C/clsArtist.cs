@@ -5,6 +5,7 @@ namespace Version_1_C
     [Serializable()] 
     public class clsArtist
     {
+        // this is my code now!
         private string name;
         private string speciality;
         private string phone;
